@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1><center>
+Welcome To GIETian</center>
+</body>
+</html>
+
+
+http://www.tutorialspark.com/javascript/JavaScript_Regular_Expression_Form_Validation.php
